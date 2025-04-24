@@ -1,5 +1,6 @@
 - Imputación: Cierto, pensé que había usado la mediana.
 - Preprocessing: Pensaba que al ser metadatos médicos, haría falta más información, pero me quedo con ello (no estratificar mucho si es un escenario complejo)
-- Modeling 2D: Toda la razón aquí lo tengo implementado [Ver código de preprocesamiento de imágenes](#cd4251a9 "Celda de preprocesamiento de canales RGB")
+- Modeling 2D: Toda la razón aquí lo tengo implementado
+- Evaluación: He realizado una comparativa completa de todos los modelos. [Ver sección de Evaluación](#f7f6a3df "Celda de Evaluación")
 - Interpretability: Lo he dejado al final del todo, he usado LIME que es la que me sonaba y una que vi por internet (Shapley Values), aunque no estoy seguro de saber interpretarla. [Ver sección de Interpretabilidad](#ed0a77cb "Celda de Interpretabilidad")
-- Discusión: [Ver sección de Evaluación](#f7f6a3df "Celda de Evaluación")
+- Discusión:
