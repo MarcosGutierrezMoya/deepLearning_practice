@@ -6,3 +6,4 @@
 - Interpretability: Lo he dejado al final del todo, he usado LIME que es la que me sonaba y una que vi por internet (Shapley Values), aunque no estoy seguro de saber interpretarla.
 
 # <div align="center" style="color: darkblue"> He dejado links para moverse rápidamente a los cambios realizados</div>
+# <div align="center" style="color: darkred"> No funcionan en github</div>
